@@ -2,6 +2,8 @@ import React from 'react';
 import styled from 'styled-components/native';
 import {useNavigation} from '@react-navigation/native';
 
+import Api from '../Api';
+
 import ExpandIcon from '../assets/expand.svg';
 
 
@@ -86,7 +88,7 @@ export default ({show, setShow, user, service}) => {
       }
 
       const handleFinishClick = () =>{
-
+        navigation.navigate('Home');
       }
 
     return (
