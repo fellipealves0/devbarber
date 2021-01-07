@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977547251692",
+    "project_id": "devbaber-f9151",
+    "storage_bucket": "devbaber-f9151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977547251692:android:9d9d67f05783235737bac9",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977547251692-f0h9njgcd0dornl8dcjmoqt3q151ml0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxsAACY3nxR1TEpKxLi52bGR15kGrgxN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977547251692-f0h9njgcd0dornl8dcjmoqt3q151ml0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
